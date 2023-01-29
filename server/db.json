@@ -1,0 +1,235 @@
+{
+  "columns": [
+    {
+      "id": 1,
+      "title": "To-Do",
+      "cards": [
+        {
+          "id": 1,
+          "title": "Create a Vanilla JS Todo-List",
+          "content": "Using Redux for state management and json-server for mock API"
+        },
+        {
+          "id": 2,
+          "title": "Add drag and drop functionality",
+          "content": "Without using the HTML5 drag and drop API"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "In Progress",
+      "cards": []
+    },
+    {
+      "id": 3,
+      "title": "Done",
+      "cards": [
+        {
+          "id": 1674762525901,
+          "title": "adf",
+          "content": "123"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "123",
+      "cards": [
+        {
+          "id": 3,
+          "title": "Implement Logs feature",
+          "content": "To display user actions in a sidebar."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "adsf",
+      "cards": [
+        {
+          "id": 1674760812990,
+          "title": "sample",
+          "content": "sample"
+        }
+      ]
+    }
+  ],
+  "Logs": [
+    {
+      "id": 1,
+      "content": "<b>dfdsa</b>(을)를 <b>삭제</b>하였습니다.",
+      "time": 1674761624403
+    },
+    {
+      "id": 2,
+      "content": "<b>In Progress</b>에서 <b>d</b>(을)를 <b>삭제</b>하였습니다.",
+      "time": 1674761628583
+    },
+    {
+      "id": 3,
+      "content": "<b>sample</b>(을)를 <b>추가</b>하였습니다.",
+      "time": 1674761635191
+    },
+    {
+      "id": 4,
+      "content": "<b>In Progress</b>에서 <b>d</b>(을)를 <b>삭제</b>하였습니다.",
+      "time": 1674761658705
+    },
+    {
+      "id": 5,
+      "content": "<b>In Progress</b>에서 <b>d</b>(을)를 <b>삭제</b>하였습니다.",
+      "time": 1674761704552
+    },
+    {
+      "id": 6,
+      "content": "<b>sample</b>에 <b>,</b>(을)를 <b>등록</b>하였습니다.",
+      "time": 1674761712432
+    },
+    {
+      "id": 7,
+      "content": "<b>sample</b>(을)를 <b>삭제</b>하였습니다.",
+      "time": 1674761862615
+    },
+    {
+      "id": 8,
+      "content": "<b>In Progress</b>에서 <b>dasdf</b>(을)를 <b>삭제</b>하였습니다.",
+      "time": 1674761901575
+    },
+    {
+      "id": 9,
+      "content": "<b>done</b>(을)를 <b>추가</b>하였습니다.",
+      "time": 1674762059459
+    },
+    {
+      "id": 10,
+      "content": "<b>done</b>(이)가 <b>Done</b>(으)로 <b>변경</b>하였습니다.",
+      "time": 1674762066162
+    },
+    {
+      "id": 11,
+      "content": "<b>Done</b>에 <b>adf</b>(을)를 <b>등록</b>하였습니다.",
+      "time": 1674762527956
+    },
+    {
+      "id": 12,
+      "content": "<b>Done</b>에 <b>ads</b>(을)를 <b>등록</b>하였습니다.",
+      "time": 1674762532534
+    },
+    {
+      "id": 13,
+      "content": "<b>Done</b>에서 <b>ads</b>(을)를 <b>삭제</b>하였습니다.",
+      "time": 1674762537864
+    },
+    {
+      "id": 14,
+      "content": "<b>adf</b>(을)를 <b>Done</b>에서 <b>In Progress</b>(으)로 <b>이동</b>하였습니다.",
+      "time": 1674762541004
+    },
+    {
+      "id": 15,
+      "content": "<b>In Progress</b>에서 <b>adf</b>의 순서를 <b>변경</b>하였습니다.",
+      "time": 1674762545974
+    },
+    {
+      "id": 16,
+      "content": "<b>To-Do</b>에서 <b>Add drag and drop functionality</b>의 순서를 <b>변경</b>하였습니다.",
+      "time": 1674762550128
+    },
+    {
+      "id": 17,
+      "content": "<b>In Progress</b>에서 <b>sample</b>의 순서를 <b>변경</b>하였습니다.",
+      "time": 1674762554003
+    },
+    {
+      "id": 18,
+      "content": "<b>adf</b>(을)를 <b>In Progress</b>에서 <b>Done</b>(으)로 <b>이동</b>하였습니다.",
+      "time": 1674762555665
+    },
+    {
+      "id": 19,
+      "content": "<b>sample</b>(을)를 <b>In Progress</b>에서 <b>Done</b>(으)로 <b>이동</b>하였습니다.",
+      "time": 1674762556649
+    },
+    {
+      "id": 20,
+      "content": "<b>123</b>(을)를 <b>추가</b>하였습니다.",
+      "time": 1674762560513
+    },
+    {
+      "id": 21,
+      "content": "<b>adsf</b>(을)를 <b>추가</b>하였습니다.",
+      "time": 1674762625525
+    },
+    {
+      "id": 22,
+      "content": "<b>Done</b>에서 <b>adf</b>의 순서를 <b>변경</b>하였습니다.",
+      "time": 1674762629614
+    },
+    {
+      "id": 23,
+      "content": "<b>Done</b>에서 <b>sample</b>의 순서를 <b>변경</b>하였습니다.",
+      "time": 1674762632270
+    },
+    {
+      "id": 24,
+      "content": "<b>Done</b>에서 <b>adf</b>의 순서를 <b>변경</b>하였습니다.",
+      "time": 1674762633306
+    },
+    {
+      "id": 25,
+      "content": "<b>Done</b>에서 <b>sample</b>의 순서를 <b>변경</b>하였습니다.",
+      "time": 1674762636536
+    },
+    {
+      "id": 26,
+      "content": "<b>Done</b>에서 <b>adf</b>의 순서를 <b>변경</b>하였습니다.",
+      "time": 1674762637414
+    },
+    {
+      "id": 27,
+      "content": "<b>Done</b>에서 <b>sample</b>의 순서를 <b>변경</b>하였습니다.",
+      "time": 1674762640903
+    },
+    {
+      "id": 28,
+      "content": "<b>sample</b>(을)를 <b>Done</b>에서 <b>123</b>(으)로 <b>이동</b>하였습니다.",
+      "time": 1674762899191
+    },
+    {
+      "id": 29,
+      "content": "<b>sample</b>(을)를 <b>123</b>에서 <b>adsf</b>(으)로 <b>이동</b>하였습니다.",
+      "time": 1674762919606
+    },
+    {
+      "id": 30,
+      "content": "<b>Implement Logs feature</b>(을)를 <b>In Progress</b>에서 <b>Done</b>(으)로 <b>이동</b>하였습니다.",
+      "time": 1674783917093
+    },
+    {
+      "id": 31,
+      "content": "<b>adf</b>(을)를 <b>Done</b>에서 <b>In Progress</b>(으)로 <b>이동</b>하였습니다.",
+      "time": 1674783918095
+    },
+    {
+      "id": 32,
+      "content": "<b>adf</b>(을)를 <b>In Progress</b>에서 <b>Done</b>(으)로 <b>이동</b>하였습니다.",
+      "time": 1674783918962
+    },
+    {
+      "id": 33,
+      "content": "<b>Implement Logs feature</b>(을)를 <b>Done</b>에서 <b>123</b>(으)로 <b>이동</b>하였습니다.",
+      "time": 1674783929945
+    },
+    {
+      "id": 34,
+      "content": "<b>Add drag and drop functionality</b>(을)를 <b>To-Do</b>에서 <b>In Progress</b>(으)로 <b>이동</b>하였습니다.",
+      "time": 1674783931287
+    },
+    {
+      "id": 35,
+      "content": "<b>Add drag and drop functionality</b>(을)를 <b>In Progress</b>에서 <b>To-Do</b>(으)로 <b>이동</b>하였습니다.",
+      "time": 1674783932766
+    }
+  ]
+}
